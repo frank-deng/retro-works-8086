@@ -27,3 +27,73 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 * 英文打字练习 English Typing Training
 * 五笔打字练习 Wubi Input Training
 
+截图欣赏 Screenshots
+--------------------
+
+2048游戏 2048 Game  
+![2048](PICTURES/2048.png)
+
+俄罗斯方块 Tetris  
+![Tetris](PICTURES/Tetris.png)
+
+猜数字游戏 Bulls and Cows  
+![Bulls and Cows](PICTURES/guessnum.png)
+
+九九乘法表 9x9 Multiplication Table  
+![Multiplication Table](PICTURES/Chengfa.png)
+
+求1000以内的质数 Get prime numbers under 1000  
+![Prime Numbers](PICTURES/primes.png)
+
+显示杨辉三角 Display Yanghui Triangle  
+![Yanghui Triangle](PICTURES/Yanghui.png)
+
+条形图 Bar Chart  
+![Bar Chart](PICTURES/barchart.png)
+
+饼图 Pie Chart  
+![Pie Chart](PICTURES/piechart.png)
+
+绘制几何形状 Drawing Geometric Shapes  
+![Shapes](PICTURES/Shapes.png)
+
+屏保 Screensaver  
+![Screensaver](PICTURES/lines.png)
+
+谢尔宾斯基地毯 Sierpinski Carpet  
+![Sierpinski Carpet](PICTURES/Carpet.png)
+
+数独求解程序 Sudoku Solver  
+![Sudoku Solver](PICTURES/Sudoku_Solver.png)
+
+显示古诗 Poem Showing  
+![Poem](PICTURES/poem.png)
+
+显示古诗（使用BSAVE图像数据） Poem Showing (Using BSAVE Image Data)  
+![Poem 2](PICTURES/poem2.png)
+
+新年快乐 Happy New Year  
+![Happy New Year](PICTURES/New_Year.png)
+
+诸事皆顺 Everything Goes Well  
+![Everything Goes Well](PICTURES/Well.png)
+
+月亮河 *Moon River*  
+![Moon River](PICTURES/Moon_River.png)
+
+图案 Patterns  
+![Pattern 1](PICTURES/Pattern_1.png)  
+  
+![Pattern 2](PICTURES/Pattern_2.png)  
+  
+![Pattern 3](PICTURES/Pattern_3.png)
+
+中文数字 Chinese Number  
+![Chinese Number](PICTURES/Chinese_Number.png)
+
+罗马数字 Roman Number  
+![Roman Number](PICTURES/Roman_Number.png)
+
+24点求解器 24 Game Solver  
+![Moon River](PICTURES/24_Game_Solver.png)
+
