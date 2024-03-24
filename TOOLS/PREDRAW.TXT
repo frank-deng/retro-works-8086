@@ -1,0 +1,12 @@
+A
+push ax
+mov ax,ff0b
+int 16h
+pop ax
+retf
+
+N PREDRAW.BIN
+RCX
+8
+W
+Q
