@@ -70,7 +70,7 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 ![Poem](PICTURES/poem.png)
 
 显示古诗（使用BSAVE图像数据） Poem Showing (Using BSAVE Image Data)  
-![Poem 2](PICTURES/poem2.png)
+![Poem With Picture](PICTURES/poem2.png)
 
 新年快乐 Happy New Year  
 ![Happy New Year](PICTURES/New_Year.png)
@@ -95,5 +95,8 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 ![Roman Number](PICTURES/Roman_Number.png)
 
 24点求解器 24 Game Solver  
-![Moon River](PICTURES/24_Game_Solver.png)
+![24 Game Solver](PICTURES/24_Game_Solver.png)
+
+猜数字求解器 Bulls and Cows Solver  
+![Bulls and Cows Solver](PICTURES/guessnum_solver.png)
 
