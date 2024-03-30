@@ -81,6 +81,9 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 月亮河 *Moon River*  
 ![Moon River](PICTURES/Moon_River.png)
 
+繁花图案 Flower Pattern  
+![Flower](PICTURES/Flower.png)
+
 图案 Patterns  
 ![Pattern 1](PICTURES/Pattern_1.png)  
   
@@ -99,8 +102,4 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 
 猜数字求解器 Bulls and Cows Solver  
 ![Bulls and Cows Solver](PICTURES/guessnum_solver.png)
-
-繁花图案 Flower Pattern  
-![Flower](PICTURES/Flower.png)
-
 
