@@ -45,6 +45,9 @@ Retro Programming Works For 8086 PC 怀旧编程作品（8086 PC用）
 求1000以内的质数 Get prime numbers under 1000  
 ![Prime Numbers](PICTURES/primes.png)
 
+斐波那契数列 Fibonacci Sequence  
+![Fibonacci Sequence](PICTURES/Fibonacci.png)
+
 显示杨辉三角 Display Yanghui Triangle  
 ![Yanghui Triangle](PICTURES/Yanghui.png)
 
